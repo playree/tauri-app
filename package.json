@@ -12,8 +12,10 @@
     "prettier": "prettier --write './src/**/*.{js,jsx,ts,tsx,json,css}'"
   },
   "dependencies": {
+    "@nextui-org/react": "^2.4.8",
     "@tauri-apps/api": "^2.0.2",
     "@tauri-apps/plugin-shell": "^2.0.0",
+    "framer-motion": "^11.11.8",
     "next": "^14.2.15",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
